@@ -1,0 +1,14 @@
+{
+    "student": "Miguel Pinheiro",
+    "totalGrade": 100,
+    "inputDir": "files/in",
+    "outputDir": "files/out",
+    "resultFile": "results.txt",
+    "executions": [
+        {
+            "inputs": "LearXD",
+            "outputs": "LearXD",
+            "exactMatch": false
+        }
+    ]
+}
